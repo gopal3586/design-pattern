@@ -1,0 +1,7 @@
+Build a tea vending machine order feature for KL model machine and it 
+Input "TEA" should serve tea (Tea Decoction (100%))
+Input "SPECIAL TEA" should serve tea 
+    (Tea Decoction with cardamom flavour (25 ml) + milk(25 ml))
+
+
+

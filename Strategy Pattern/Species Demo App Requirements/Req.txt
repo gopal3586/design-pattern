@@ -1,0 +1,3 @@
+Species Demo App Phase5
+
+The demo application is expected to print Alive, Dead and Breathe behavior of LION, TIGER, MANGO TREE and Banyan TREE

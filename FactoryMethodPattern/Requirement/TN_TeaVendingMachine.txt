@@ -1,0 +1,4 @@
+Build a tea vending machine order feature for TN model machine and it 
+Input "TEA" should serve tea (Tea Decoction (25 ml) + milk(25 ml))
+Input "SPECIAL TEA" should serve tea 
+    (Tea Decoction with ginger flavour (25 ml) + milk(25 ml))

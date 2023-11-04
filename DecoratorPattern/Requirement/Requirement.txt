@@ -1,0 +1,7 @@
+The system should be able to calculate the tax payable amount for the follwing income types
+Income from salary
+Income from house rent
+Income from interest
+
+The user can get exemptions on 80C section and HRA
+In future it may need to support other exemptions with minimal change.

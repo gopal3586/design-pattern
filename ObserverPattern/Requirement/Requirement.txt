@@ -1,0 +1,6 @@
+Stock exchange is the place where the Stocks are purchased and sold.
+
+The system is expected to communicate the trades happening in stock exchange for the
+parties who are interested in receiving it.
+
+The parties should be able to subscribe/unsubscribe the stock exchange based on their need.

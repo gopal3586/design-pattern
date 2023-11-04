@@ -1,0 +1,8 @@
+IVR for college
+
+The system should display the navigations details given below, 
+upon the selected choice the system has to provide the corresponding details
+
+Press 1 to know the student presence for the current date
+Press 2 to know the no. of arrears 
+Press 3 to know the latest announcements

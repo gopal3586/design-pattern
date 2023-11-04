@@ -1,0 +1,7 @@
+The digital menu card system should be able to display the price of food items in different currencies and 
+the default currency is rupees.
+
+In future it may need to support other currencies as well.
+
+
+
